@@ -1,0 +1,8 @@
+{
+  "name": "mobile-c-coding-backend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
